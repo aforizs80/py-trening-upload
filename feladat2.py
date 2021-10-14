@@ -54,6 +54,7 @@ while (i <length):
     i=i + 1
 
 for c in name:
+    if c == " ":
     print(c)
 
 name ="joe"
