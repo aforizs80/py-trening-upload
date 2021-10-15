@@ -1,0 +1,10 @@
+szám: 0
+szám: 1
+szám: 2
+szám: 3
+szám: 4
+szám: 5
+szám: 6
+szám: 7
+szám: 8
+szám: 9
